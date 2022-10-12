@@ -1,0 +1,25 @@
+lua-dkjson (2.5-3) unstable; urgency=medium
+
+  * bump debhelper compat to version 11
+  * Point Vcs fields to salsa.debian.org
+  * Bump Standards-Version to 4.3.0
+  * Mark lua-dkjson Multi-Arch: foreign (Closes: #916787)
+  * update copyright years
+
+ -- Jason Pleau <jason@jpleau.ca>  Sun, 23 Dec 2018 14:45:26 -0500
+
+lua-dkjson (2.5-2) unstable; urgency=medium
+
+  * Update Standards-Version to 3.9.8, no changes needed
+  * Vcs-* Fields: use https
+  * Update copyright years
+  * Remove the -dev package, it was unnecessary
+  * Add lua5.3 support
+
+ -- Jason Pleau <jason@jpleau.ca>  Wed, 22 Jun 2016 19:02:25 -0400
+
+lua-dkjson (2.5-1) unstable; urgency=medium
+
+  * Initial release. (Closes: #784058)
+
+ -- Jason Pleau <jason@jpleau.ca>  Tue, 29 Sep 2015 20:44:29 -0400

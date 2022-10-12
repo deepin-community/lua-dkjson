@@ -1,0 +1,2 @@
+version=3
+http://dkjson_versions.jpleau.ca .*/dkjson-(\d\S*).tar.gz.*
